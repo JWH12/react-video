@@ -1,0 +1,18 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  text-align: center;
+}
+
+button {
+  padding: 5px 10px;
+  font-size: 20px;
+  margin: 1rem 5px;
+}
+
+video {
+  width: 100%;
+  max-height: 50vh;
+}
